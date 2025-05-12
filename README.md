@@ -2,7 +2,6 @@
 - 👀 I work on Bioinformatics at Lineberger Comprehensive Cancer Center
 - 📫 Work:  alanh@unc.edu Personal: alan@alanhoyle.com. 
 - 👨‍💻: https://alanhoyle.com
-- 🦤 Twitter: [@alanh42](https://twitter.com/alanh42)
 - 🐳 DockerHub: [aphoid](https://hub.docker.com/u/aphoid)
 
 <!---
